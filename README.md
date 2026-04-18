@@ -9,8 +9,9 @@ A CLI application for applying cyberpunk-inspired visual transformations to digi
 
 ## Example
 
-| <img width="626" height="626" alt="input" src="https://github.com/user-attachments/assets/59a5654a-6c62-4428-9c80-bc4216c92cab" /> | <img width="626" height="626" alt="output" src="https://github.com/user-attachments/assets/0581f582-3a9a-4255-b36b-cdc2722cc722" /> |
+| <img width="736" height="1104" alt="bugatti_input" src="https://github.com/user-attachments/assets/204fcd73-713b-4488-9f1c-5268e0074148" /> | <img width="736" height="1104" alt="output" src="https://github.com/user-attachments/assets/be189b0e-c57d-473f-9c3b-0948135f43f6" /> |
 |:---:|:---:|
+| <img width="626" height="626" alt="input" src="https://github.com/user-attachments/assets/59a5654a-6c62-4428-9c80-bc4216c92cab" /> | <img width="626" height="626" alt="output" src="https://github.com/user-attachments/assets/0581f582-3a9a-4255-b36b-cdc2722cc722" /> |
 | **Input** | **Output** |
 
 
